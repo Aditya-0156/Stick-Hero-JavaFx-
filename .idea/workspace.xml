@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1117142-53c2-45e0-896e-fdba104e713f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archer_run_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archer_run_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archer_run_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archer_run_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archer_run_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archer_run_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archer_run_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archer_run_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cherry.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_over.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/score.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/Cherry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/GameRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/ParametrizedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/Randomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/SceneSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/SceneSwitch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/SettingsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/StartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/Stats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/Stick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/StickStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sh/StickStartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archer_run_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archer_run_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archer_run_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archer_run_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archer_run_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archer_run_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archer_run_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archer_run_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cherry.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/StickStart.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/archer_run_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/cherry.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/game.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/settings.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/start.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/victory.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/wizard_walk_1.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/wizard_walk_2.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sh/wizard_walk_3.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/game_over.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/record.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/swordsman_run_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/swordsman_run_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/swordsman_run_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/swordsman_run_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/swordsman_run_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/swordsman_run_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/swordsman_run_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/swordsman_run_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/victory.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_run_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_run_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_run_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_run_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_run_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_run_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_run_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_run_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_walk_1.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_walk_2.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wizard_walk_3.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordsman_run_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordsman_run_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordsman_run_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordsman_run_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordsman_run_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordsman_run_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordsman_run_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordsman_run_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/victory.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard_run_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard_run_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard_run_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard_run_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard_run_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard_run_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard_run_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard_run_8.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZFxGGlJxR9OHO1sQySRPIa63D9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "E:/AP_Project/AP/SH/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AP_Project\AP\SH\src\main\resources" />
+      <recent name="E:\AP_Project\AP\SH\src\main\resources\com\example\sh" />
+      <recent name="E:\AP_Project\AP\SH" />
+      <recent name="E:\AP_Project\AP\SH\src\main" />
+      <recent name="E:\AP_Project\AP\SH\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.sh" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StickStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.sh.StickStart" />
+      <module name="SH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StickStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1117142-53c2-45e0-896e-fdba104e713f" name="Changes" comment="" />
+      <created>1702031532442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702031532442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

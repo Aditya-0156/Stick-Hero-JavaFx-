@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="mainanchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="507.0" prefWidth="372.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.sh.StickStartController">
+   <children>
+      <ImageView fitHeight="507.0" fitWidth="372.0">
+         <image>
+            <Image url="@../../../PRE_ORIG_SIZE.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="59.0" fitWidth="200.0" layoutX="86.0" layoutY="286.0" onMouseClicked="#handleExitButton">
+         <image>
+            <Image url="@../../../Exit_BTN.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="59.0" fitWidth="90.0" layoutX="268.0" layoutY="23.0" onMouseClicked="#SettingsScene">
+         <image>
+            <Image url="@../../../Settings_BTN.png" />
+         </image>
+      </ImageView>
+      <ImageView accessibleRole="BUTTON" fitHeight="59.0" fitWidth="200.0" layoutX="86.0" layoutY="179.0" onMouseClicked="#StartScene">
+         <image>
+            <Image url="@../../../Start_BTN.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
